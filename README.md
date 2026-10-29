@@ -1,8 +1,8 @@
 # Nemesis
 
-[![demo](https://img.youtube.com/vi/nNW0nZTq-5Y/maxresdefault.jpg)](https://youtu.be/nNW0nZTq-5Y)
-▶ **Click the image above to go to the video**
+[![Video Thumbnail](https://img.youtube.com/vi/wEKiaz45Oig/maxresdefault.jpg)](https://www.youtube.com/watch?v=wEKiaz45Oig) **Click the image above to go to the video**
 ---
+
 
 ## What it is
 
